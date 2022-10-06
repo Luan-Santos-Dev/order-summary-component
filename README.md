@@ -13,3 +13,4 @@
 <p>
  Para acessar a aplicação:
 </p>
+https://luan-santos-dev.github.io/order-summary-component/
